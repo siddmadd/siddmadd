@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Sid 👋
 
+Reach out to me at siddmadd@umich.edu
 <!--
 **siddmadd/siddmadd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
