@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I'm Sid! <br>I am currently an a rising senior at the University of Michigan studying Computer Science Engineering.<br><br>I am passionate about Systems Development, Natural Langauge Processing, Machine Learning, and the computational math of neural networks.<br><br>I am very well-versed in C++ and Python. I am proficient in Javascript, HTML & CSS, C#, C, React.js & Node.js. Along with proficiency in AWS, SQL, MATLAB<br><br>My areas of focus are Operating Systems, Web Development, Machine Learning, Natural Language Processing, Artificial Intelligence, Neural Networks, DevOps, Computer Organization & Architecture<br><br>
+Hi I'm Sid! <br>I am currently an a rising senior at the University of Michigan studying Computer Science Engineering.<br><br>I am passionate about Systems Development, Natural Langauge Processing, Machine Learning, and the computational math of neural networks.<br><br>I am very well-versed in C++ and Python. I am proficient in Javascript, HTML & CSS, C#, C, React.js & Node.js. Along with proficiency in AWS, SQL, MATLAB<br><br>My areas of focus are Operating Systems, Web Development, Machine Learning, Natural Language Processing, Artificial Intelligence, Neural Networks, Computer Organization & Architecture<br><br>
 
 
 ## 🌐 Socials:
